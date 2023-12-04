@@ -1,0 +1,6 @@
+C000;long ngan, tai cut;11/03/2023;500.0;12;CAT
+C001;long dai, chan ngan;11/03/2023;200.0;6;CAT
+P000;mau xanh, biet noi;11/03/2023;50.0;10;PARROT
+P001;sac so;11/03/2023;25.0;20;PARROT
+D000;husky;11/03/2023;600.0;6;DOG
+D001;chihuahua;11/03/2023;800.0;5;DOG

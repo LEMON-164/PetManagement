@@ -1,0 +1,2 @@
+admin,ong trum,123,admin
+user,linh lac,123,user
